@@ -1,0 +1,2 @@
+# FindGithubOpenComment
+抓取指定星数区间仓库的所有正打开的issue
